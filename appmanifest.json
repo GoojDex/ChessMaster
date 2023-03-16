@@ -1,6 +1,6 @@
 ﻿{
-	"name": "Ludo Multiplayer",
-	"short_name": "Ludo Multiplayer",
+	"name": "Chess Master",
+	"short_name": "Chess Master",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
